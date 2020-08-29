@@ -1,0 +1,22 @@
+{
+    "name": "Starter Blocks",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "documentation": "/courses/blocks-to-javascript/starter-blocks"
+}
